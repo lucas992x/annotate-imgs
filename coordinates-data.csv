@@ -1,0 +1,5 @@
+Text,Font,Color,Size,Padx,Pady,Width,Height,Align,Direction
+<name>,sourcesanspro-regular,white,20,100,100,500,100,west,northwest
+<surname>,sourcesanspro-bold,green,40,100,400,500,100,center,northwest
+<fruit>,sourcesanspro-italic,#1ba1e2,60,100,100,500,100,southeast,southeast
+<something>,sourcesanspro-bold-italic,yellow,80,0,0,500,200,north,south
